@@ -1,0 +1,14 @@
+C:\Users\jverhoeven\source\repos\culecator\culecator\bin\Debug\net6.0\culecator.exe
+C:\Users\jverhoeven\source\repos\culecator\culecator\bin\Debug\net6.0\culecator.deps.json
+C:\Users\jverhoeven\source\repos\culecator\culecator\bin\Debug\net6.0\culecator.runtimeconfig.json
+C:\Users\jverhoeven\source\repos\culecator\culecator\bin\Debug\net6.0\culecator.dll
+C:\Users\jverhoeven\source\repos\culecator\culecator\bin\Debug\net6.0\culecator.pdb
+C:\Users\jverhoeven\source\repos\culecator\culecator\obj\Debug\net6.0\culecator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jverhoeven\source\repos\culecator\culecator\obj\Debug\net6.0\culecator.AssemblyInfoInputs.cache
+C:\Users\jverhoeven\source\repos\culecator\culecator\obj\Debug\net6.0\culecator.AssemblyInfo.cs
+C:\Users\jverhoeven\source\repos\culecator\culecator\obj\Debug\net6.0\culecator.csproj.CoreCompileInputs.cache
+C:\Users\jverhoeven\source\repos\culecator\culecator\obj\Debug\net6.0\culecator.dll
+C:\Users\jverhoeven\source\repos\culecator\culecator\obj\Debug\net6.0\refint\culecator.dll
+C:\Users\jverhoeven\source\repos\culecator\culecator\obj\Debug\net6.0\culecator.pdb
+C:\Users\jverhoeven\source\repos\culecator\culecator\obj\Debug\net6.0\culecator.genruntimeconfig.cache
+C:\Users\jverhoeven\source\repos\culecator\culecator\obj\Debug\net6.0\ref\culecator.dll
